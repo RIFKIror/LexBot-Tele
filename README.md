@@ -18,7 +18,7 @@
 | Information | Details |
 |---|---|
 | **Developer** | KyynXz |
-| **Emial** | kyynch31@gmail.com |
+| **Email** | kyynch31@gmail.com |
 | **WhatsApp** | [Open Chat](https://wa.me/6281239075413) |
 | **Telegram** | [@kyynxz31](https://t.me/kyynxz31) |
 | **Website** | [kyynns.vercel.app](https://kyynns.vercel.app) |

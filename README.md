@@ -15,6 +15,6 @@
 ## Informasi Developer
 #### WhatsApp : [Click](https://wa.me/6281239075413)
 #### Telegram : [Click](https://t.me/kyynxz31)
-#### Website  : [Click](https://kyynns.vercel.app)
+#### Website   : [Click](https://kyynns.vercel.app)
 #### Rest API : [Click](https://api.lexcode.biz.id)
 ---

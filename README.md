@@ -12,9 +12,19 @@
 - Cocok untuk dipelajari atau dikembangkan
 - Menggunakan Package Telegram Bot API
 ---
-## Informasi Developer
+## 👤 Informasi Developer
 #### WhatsApp : [Click](https://wa.me/6281239075413)
 #### Telegram : [Click](https://t.me/kyynxz31)
 #### Website   : [Click](https://kyynns.vercel.app)
 #### Rest API : [Click](https://api.lexcode.biz.id)
+#### Ch WhatsApp : [Click](https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d)
+---
+## ⚙️ Cara Menginstal Base (Termux)
+*Berikut dibawah ini adalah cara menginstal untuk apk termux*
+```bash
+pkg install git
+git clone https://github.com/RIFKIror/LexBot-Tele.git
+cd LexBot-Tele
+npm run dev
+```
 ---

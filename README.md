@@ -38,7 +38,7 @@
 | `handlers/` | Folder | Menangani callback query, button click, dan event lainnya |
 | `handlers/callback.js` | Handler File | Logic untuk semua `callback_data` dari inline keyboard button |
 | `config/` | Folder | Menyimpan konfigurasi bot |
-| `config/settings.js` | Config File | Token bot, nama developer, nama bot, dan pengaturan global lainnya |
+| `config/settings.js` | Config File | nama developer, nama bot, dan pengaturan global lainnya |
 | `package.json` | Package File | Dependency project, script npm, dan metadata project |
 | `package-lock.json` | Lock File | Mengunci versi dependency agar konsisten |
 | `.gitignore` | Config File | Mengecualikan file/folder tertentu seperti `node_modules` dari Git |

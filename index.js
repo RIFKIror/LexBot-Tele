@@ -32,7 +32,7 @@ console.log(`${chalk.white("[")} ${chalk.greenBright("/start")} ${chalk.white("]
 console.log(`${chalk.white("[")} ${chalk.greenBright("/info")}  ${chalk.white("]")} ${chalk.yellow("Command untuk melihat informasi bot")}`);
 console.log(`${chalk.white("[")} ${chalk.greenBright("/help")}  ${chalk.white("]")} ${chalk.yellow("Panduan commands penggunaan bot")}`);
 
-const token = "8645879601:AAFih0uwPBwbnVj3riO9fbKKogKO3KhL0Q0";
+const token = "TOKEN_TELEGRAM_LU";
 const bot = new TelegramBot(token, { polling: true });
 const botStartTime = Date.now();
 const stats = { value: 0 };

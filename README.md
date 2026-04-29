@@ -104,7 +104,7 @@ if (text === "/ping") {
 ---
 ### 1) Buka BotFather (Telegram)
 Masuk ke telegram, cari bot resmi telegram
-**@BotFather (Harus centang biru)**
+*@BotFather (Harus centang biru)*
 ---
 ### 2) Buat Bot Baru
 Ketik command berikut ke BotFather :

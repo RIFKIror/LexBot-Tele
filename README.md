@@ -2,7 +2,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-green?logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-enabled-red?logo=npm&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ESM-yellow?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ESM-yellow?logo=javascript&logoColor=yellow)
 ![Axios](https://img.shields.io/badge/Axios-HTTP-blue?logo=axios&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram-Bot_API-2CA5E0?logo=telegram&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-Enabled-brightgreen?logo=fastapi&logoColor=white)

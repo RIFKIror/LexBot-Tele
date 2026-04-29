@@ -99,6 +99,32 @@ if (text === "/ping") {
 }
 ```
 ---
+## ☁️ Cara Membuat Akun Telegram Bot
+*Untuk menggunakan base ini, dibutuh kan token telegram, ini adalah cara untuk mendapatkan token telegram*
+---
+### 1) Buka BotFather (Telegram)
+Masuk ke telegram, cari bot resmi telegram
+**@BotFather (Harus centang biru)**
+---
+### 2) Buat Bot Baru
+Ketik command berikut ke BotFather :
+/newbot => nant akan diminta Bot name & username
+
+*Contoh Bot name & username*
+Bot Name : LexBot
+Bot Username : lexbotsigma_bot
+
+*Note*: username harus diakhiri `_bot`
+---
+### 3) Ambil Token Telegram
+Setelah bot berhasil dibuat, BotFather akan memberikan token, Contohnya :
+
+```bash
+1234567890:ABCDEFG_TOKEN_HERE
+```
+
+Masukan token telegram kalian ke `index.js` dibagian `const token`
+---
 ## ⚙️ Cara Menginstal Base (Termux)
 *Berikut dibawah ini adalah cara menginstal untuk apk termux*
 ```bash

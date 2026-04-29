@@ -62,6 +62,19 @@ LexBot-Tele/
 └── README.md
 ```
 ---
+## 🛠 Cara Menambahkan Fitur Bot
+
+Menambahkan fitur baru pada base bot ini sangat mudah karena menggunakan sistem **modular command structure**.
+---
+### 📌 1) Create Command File
+
+Buat file baru di dalam folder `commands/`
+
+Contoh:
+```bash
+commands/ping.js
+```
+---
 ## ⚙️ Cara Menginstal Base (Termux)
 *Berikut dibawah ini adalah cara menginstal untuk apk termux*
 ```bash

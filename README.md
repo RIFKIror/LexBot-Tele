@@ -12,7 +12,7 @@
 - Cocok untuk dipelajari atau dikembangkan
 - Menggunakan Package Telegram Bot API
 ---
-#### Informasi Developer
+## Informasi Developer
 #### WhatsApp : [Click](https://wa.me/6281239075413)
 #### Telegram : [Click](https://t.me/kyynxz31)
 #### Website  : [Click](https://kyynns.vercel.app)

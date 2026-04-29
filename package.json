@@ -1,0 +1,20 @@
+{
+  "name": "bot-tele",
+  "version": "1.0.0",
+  "description": "Simple base bot telegram",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "KyynXzz",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.15.2",
+    "chalk": "^5.6.2",
+    "crypto": "^1.0.1",
+    "google-play-scraper": "^10.1.2",
+    "node-telegram-bot-api": "^0.67.0"
+  }
+}

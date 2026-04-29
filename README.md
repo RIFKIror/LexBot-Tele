@@ -10,3 +10,5 @@
 </p>
 
 ---
+
+Base bot Telegram modern dengan fitur **button menu**, command system modular, dan mudah dikembangkan.

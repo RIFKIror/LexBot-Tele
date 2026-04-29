@@ -8,7 +8,10 @@
   <img src="https://img.shields.io/badge/REST-API-green?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Axios-HTTP-purple?style=for-the-badge&logo=axios" />
 </p>
-
 ---
-
-Base bot Telegram modern dengan fitur **button menu**, command system modular, dan mudah dikembangkan.
+*Base bot Telegram modern dengan fitur **button menu**, command system modular, dan mudah dikembangkan.*
+- Base Telegram Support Button
+- Mudah dikembangkan
+- Cocok untuk dipelajari atau dikembangkan
+- Menggunakan Package Telegram Bot API
+---

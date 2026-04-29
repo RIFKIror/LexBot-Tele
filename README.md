@@ -12,12 +12,17 @@
 - Cocok untuk dipelajari atau dikembangkan
 - Menggunakan Package Telegram Bot API
 ---
-## 👤 Informasi Developer
-#### WhatsApp : [Click](https://wa.me/6281239075413)
-#### Telegram : [Click](https://t.me/kyynxz31)
-#### Website   : [Click](https://kyynns.vercel.app)
-#### Rest API : [Click](https://api.lexcode.biz.id)
-#### Ch WhatsApp : [Click](https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d)
+## 👨‍💻 Developer Information
+
+**Developer** : KyynXz  
+**Email** : kyynch31@gmail.com
+
+### 🔗 Contact & Links
+- **WhatsApp** → [Open Chat](https://wa.me/6281239075413)
+- **Telegram** → [@kyynxz31](https://t.me/kyynxz31)
+- **Website** → [kyynns.vercel.app](https://kyynns.vercel.app)
+- **REST API** → [api.lexcode.biz.id](https://api.lexcode.biz.id)
+- **WhatsApp Channel** → [Join Channel](https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d)
 ---
 ## ⚙️ Cara Menginstal Base (Termux)
 *Berikut dibawah ini adalah cara menginstal untuk apk termux*

@@ -64,15 +64,39 @@ LexBot-Tele/
 ---
 ## 🛠 Cara Menambahkan Fitur Bot
 
-Menambahkan fitur baru pada base bot ini sangat mudah karena menggunakan sistem **modular command structure**.
+*Berikut adalah cara menambahkan fitur pada base telegram*.
 ---
-### 📌 1) Create Command File
+### 1) Create Command File
 
 Buat file baru di dalam folder `commands/`
 
 Contoh:
 ```bash
 commands/ping.js
+```
+---
+### 2) Tambahkan script berikut (contoh)
+```javascript
+export async function pingCommand(bot, chatId) {
+  await bot.sendMessage(chatId, "🏓 Pong!");
+}
+```
+---
+### 3) Import Commands
+Import file `commands/ping.js` ke `index.js`
+
+```javascript
+import { pingCommand } from "./commands/ping.js";
+```
+---
+### Register Commands
+Tambahkan commands handler di `index.js`
+
+Contoh :
+```javascript
+if (text === "/ping") {
+  return await pingCommand(bot, chatId);
+}
 ```
 ---
 ## ⚙️ Cara Menginstal Base (Termux)

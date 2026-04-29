@@ -1,15 +1,11 @@
 # 💬 Simple Base Telegram Bot (Button)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ESM-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/NPM-enabled-red?style=for-the-badge&logo=npm" />
-  <img src="https://img.shields.io/badge/Git-version%20control-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Telegram-Bot%20API-blue?style=for-the-badge&logo=telegram" />
-  <img src="https://img.shields.io/badge/REST-API-green?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Axios-HTTP-purple?style=for-the-badge&logo=axios" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-v18+-green)
+![NPM](https://img.shields.io/badge/NPM-enabled-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-ESM-yellow)
+![Axios](https://img.shields.io/badge/Axios-HTTP-blue)
 ---
-*Base bot Telegram modern dengan fitur **button menu**, command system modular, dan mudah dikembangkan.*
+*Base bot Telegram modern dengan fitur button menu, command system modular, dan mudah dikembangkan.*
 - Base Telegram Support Button
 - Mudah dikembangkan
 - Cocok untuk dipelajari atau dikembangkan

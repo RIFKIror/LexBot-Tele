@@ -24,7 +24,7 @@
 | **Website** | [kyynns.vercel.app](https://kyynns.vercel.app) |
 | **REST API** | [api.lexcode.biz.id](https://api.lexcode.biz.id) |
 | **Channel** | [Join Channel](https://whatsapp.com/channel/0029VbC2uly2f3EEsyAGna1d) |
-| **Link MediaFire | [Download Here](https://www.mediafire.com/file/0ztrumzx5ziwkts/Simple+Base+Telegram.zip/file) |
+| **Link MediaFire** | [📥 Download Here](https://www.mediafire.com/file/0ztrumzx5ziwkts/Simple+Base+Telegram.zip/file) |
 ---
 ## 📁 Project Structure
 
